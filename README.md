@@ -2,8 +2,7 @@
 
 A tiny header-only C button library for CH32 microcontrollers with debounce, click detection, and hold detection.
 
-[Russian documentation](README_ru.md)
-
+[Russian documentation](SimpleButton/README_ru.md)
 
 
 The library provides:
